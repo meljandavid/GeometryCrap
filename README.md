@@ -17,6 +17,8 @@ Ezeket letöltheted erről az oldalról (Executable mappa), vagy ezen a [Dropbox
 ## Visszajelzés
 Bővebb infók a projekt állapotáról: https://github.com/meljandavid/GeometryCrap/wiki
 
+Ha kipróbáltad a játékot, nagyon örülnék, ha kitöltenéd ezt az űrlapot: https://forms.gle/5zwFYuiDipNDt69DA
+
 Jelenleg lehet néhány hiba a programban, ha észlelsz valamit, akkor küldd el nekem.
 Ha csináltál egy menő pályát, vagy van valami javaslatod és azt szeretnéd megosztani a többi játékossal, akkor azt is elküldheted.
 
