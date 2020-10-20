@@ -1,4 +1,5 @@
-3
-the_intro
+4
+begin
+watch_out
 bullet
 illusion
