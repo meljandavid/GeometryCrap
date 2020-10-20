@@ -11,7 +11,7 @@ Az alábbi fájlok szükségesek:
 - GeoCrap (alkalmazás): ezt kell majd futtatni
 - openal32.dll : zene lejátszásához szükséges könyvtár
 
-Ezeket letöltheted erről az oldalról, vagy ezen a [Dropbox linken](https://www.dropbox.com/sh/k5bud2vt4z06jay/AAC56qix2ZODmiCfQTppPQkKa?dl=0).
+Ezeket letöltheted erről az oldalról (Executable mappa), vagy ezen a [Dropbox linken](https://www.dropbox.com/sh/k5bud2vt4z06jay/AAC56qix2ZODmiCfQTppPQkKa?dl=0).
 
 ## Visszajelzés
 Jelenleg lehet néhány hiba a programban, ha észlelsz valamit, akkor küldd el nekem.
