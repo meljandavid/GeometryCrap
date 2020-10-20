@@ -14,6 +14,8 @@ Az alábbi fájlok szükségesek:
 Ezeket letöltheted erről az oldalról (Executable mappa), vagy ezen a [Dropbox linken](https://www.dropbox.com/sh/k5bud2vt4z06jay/AAC56qix2ZODmiCfQTppPQkKa?dl=0).
 
 ## Visszajelzés
+Bővebb infók a projekt állapotáról: https://github.com/meljandavid/GeometryCrap/wiki
+
 Jelenleg lehet néhány hiba a programban, ha észlelsz valamit, akkor küldd el nekem.
 Ha csináltál egy menő pályát, vagy van valami javaslatod és azt szeretnéd megosztani a többi játékossal, akkor azt is elküldheted.
 
