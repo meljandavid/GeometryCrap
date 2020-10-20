@@ -12,6 +12,7 @@ Az alábbi fájlok szükségesek:
 - openal32.dll : zene lejátszásához szükséges könyvtár
 
 Ezeket letöltheted erről az oldalról (Executable mappa), vagy ezen a [Dropbox linken](https://www.dropbox.com/sh/k5bud2vt4z06jay/AAC56qix2ZODmiCfQTppPQkKa?dl=0).
+(lehetséges, hogy a jövőben nem mindig a legfrissebb verzió lesz a dropbox mappában.
 
 ## Visszajelzés
 Bővebb infók a projekt állapotáról: https://github.com/meljandavid/GeometryCrap/wiki
