@@ -3,7 +3,7 @@
 ![Wallpaper](wp.jpg)
 
 ## A játékról
-Ha te is szereted a Geometry Dasht és új kihívásokra vágysz, akkor ez a Te játékod. Az alapok maradtak, viszont néhány új elemet adtam hozzá. Ezen felül saját pályákat is szerkeszthetsz.
+Ha te is szereted a Geometry Dasht és új kihívásokra vágysz, akkor ez a Te játékod. Az alapok maradtak, viszont néhány új elemet hozzáadtam. Ezen felül saját pályákat is szerkeszthetsz.
 
 ## Letöltés és futtatás
 Az alábbi fájlok szükségesek:
