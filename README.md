@@ -12,6 +12,8 @@ Ha te is szereted a Geometry Dasht és új kihívásokra vágysz, akkor ez a Te 
 - Ágyú
 - Portál: párban vannak, egyik végéből átdob a másikba próbálkozásonként egyszer
 
+ ![Tiles](Executable/Assets/edittiles.png)
+
 ## Letöltés és futtatás
 Az alábbi fájlok szükségesek:
 - Assets (mappa): a játékban lévő zenék, képek és egyéb fájlok helye
