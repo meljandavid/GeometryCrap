@@ -20,7 +20,6 @@ Az alábbi fájlok szükségesek:
 - openal32.dll : zene lejátszásához szükséges könyvtár
 
 Ezeket letöltheted erről az oldalról (Executable mappa), vagy ezen a [Dropbox linken](https://www.dropbox.com/sh/k5bud2vt4z06jay/AAC56qix2ZODmiCfQTppPQkKa?dl=0).
-(lehetséges, hogy a jövőben nem mindig a legfrissebb verzió lesz a dropbox mappában)
 
 
 ## Visszajelzés
@@ -39,14 +38,3 @@ https://www.youtube.com/playlist?list=OLAK5uy_m6BBOInOcsX6_S4p9IrVk0aldwiTjsWes
 ## Keretrendszer
 C++17 & SFML (2.5.1)
 https://www.sfml-dev.org/
-
-
-## Amit fejlesztenem kéne még:
-- **Backend**
-   - Assetmanager
-   - adatok tárolása biztonságosabb módon, bytekódként például
-   - hangerőszabályzó
-- **Pályák**
-   - minden pályához egyedibb színek, zenék
-   - statisztikák mentése, kiírása
-
