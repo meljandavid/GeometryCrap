@@ -40,5 +40,5 @@ https://www.youtube.com/playlist?list=OLAK5uy_m6BBOInOcsX6_S4p9IrVk0aldwiTjsWes
 
 
 ## Keretrendszer
-C++17 & SFML (2.5.1)
+C++14 & SFML (2.5.1)
 https://www.sfml-dev.org/
