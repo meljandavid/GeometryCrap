@@ -5,7 +5,11 @@
 ## A játékról
 Ha te is szereted a Geometry Dasht és új kihívásokra vágysz, akkor ez a Te játékod. Az alapok maradtak, viszont néhány új elemet hozzáadtam. Ezen felül saját pályákat is szerkeszthetsz.
 
-Új játékelemek:
+### Irányítás:
+SPACE - ugrás
+ESC - visszalépés menüben
+
+### Új játékelemek:
 - Dupla ugrás
 - A "Láthatatlan fal": van hitboxa, de úgy néz ki, mint a levegő
 - Az "Álfal": nincs hitboxa, de úgy néz ki, mint egy fal
