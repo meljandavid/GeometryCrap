@@ -16,6 +16,7 @@ ESC - visszalépés menüben
 - Ágyú
 - Portál: párban vannak, egyik végéből átdob a másikba próbálkozásonként egyszer
 
+https://youtu.be/NvVdOJ1UEQ0
 
 ## Letöltés és futtatás
 Az alábbi fájlok szükségesek:
@@ -36,9 +37,9 @@ david.meljan@gmail.com
 
 
 ## Zenék
-https://www.youtube.com/playlist?list=OLAK5uy_m6BBOInOcsX6_S4p9IrVk0aldwiTjsWes
-
+Keppel Skies - Fiberman, Pablo 4
+Mar Vei - Mind, Steps on Water
 
 ## Keretrendszer
-C++14 & SFML (2.5.1)
+C++20 & SFML (2.5.1)
 https://www.sfml-dev.org/
