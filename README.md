@@ -16,8 +16,6 @@ ESC - visszalépés menüben
 - Ágyú
 - Portál: párban vannak, egyik végéből átdob a másikba próbálkozásonként egyszer
 
-https://youtu.be/NvVdOJ1UEQ0
-
 ## Letöltés és futtatás
 Az alábbi fájlok szükségesek:
 - Assets (mappa): a játékban lévő zenék, képek és egyéb fájlok helye
