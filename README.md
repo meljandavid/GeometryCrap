@@ -37,8 +37,8 @@ david.meljan@gmail.com
 
 
 ## Zenék
-Keppel Skies - Fiberman, Pablo 4
-Mar Vei - Mind, Steps on Water
+- Keppel Skies - Fiberman, Pablo 4
+- Mar Vei - Mind, Steps on Water
 
 ## Keretrendszer
 C++20 & SFML (2.5.1)
